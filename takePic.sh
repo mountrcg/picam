@@ -6,8 +6,8 @@ DRIVEUUID="7309-DD8D"
 LOGFILE="$OUTPUTDIR/images.log"
 SLEEPBETWEENPICS=300  ## note: delay will actually be this value plus the time it takes for the pi to boot and shutdown
 # latitude and longitude for your location
-LAT="43.049876N"
-LON="-77.593224E"
+LAT="52.5811N"
+LON="12.1955E"
 
 mount -U $DRIVEUUID $OUTPUTDIR
 
